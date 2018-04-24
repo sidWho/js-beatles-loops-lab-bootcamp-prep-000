@@ -21,10 +21,10 @@ function johnLennonFacts(arrFacts){
 
 
 function iLoveTheBeatles(num){
-  var y =[]
+  var arrY =[]
   do {
-    y.push("I love the Beatles!")
+    arrY.push("I love the Beatles!")
     num++
   } while (num < 15)
-  
-}return
+ return  arrY
+}
