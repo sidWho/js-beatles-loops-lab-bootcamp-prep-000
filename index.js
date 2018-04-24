@@ -8,5 +8,11 @@ function theBeatlesPlay(arrMusicians, arrInstruments){
 }
 
 function johnLennonFacts(arrFacts){
+  while()
+  {
+    
+    
+  }
+  
   
 }
