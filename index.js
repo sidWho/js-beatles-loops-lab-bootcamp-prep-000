@@ -7,4 +7,6 @@ function theBeatlesPlay(arrMusicians, arrInstruments){
   return arrX
 }
 
-function theBeatlesPlay(arrMusicians, arrInstruments){
+function johnLennonFacts(arrFacts){
+  
+}
