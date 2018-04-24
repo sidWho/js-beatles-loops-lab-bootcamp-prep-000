@@ -18,3 +18,6 @@ function johnLennonFacts(arrFacts){
   }
   return arrStrings
 }
+
+
+function
